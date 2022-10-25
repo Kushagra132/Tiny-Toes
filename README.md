@@ -5,15 +5,15 @@ Tiny Toes is an interactive mobile application to improve the health and well be
 
 # Salient Features
 
-Secure OTP based login
-Available in 3 languages ( English, Hindi , Punjabi)
-Well being guide for mothers
-Reminder for upcoming appointments
-Doctor support ( chat and call)
-Maps to show nearby hospitals to the user.
-Health trackers like sleep tracker, weight tracker.
-Tools like Fetal count and contraction timer
-Neonatal care and Fitness section for Pregnant ladies.
+Secure OTP based login <br />
+Available in 3 languages ( English, Hindi , Punjabi) <br />
+Well being guide for mothers <br />
+Reminder for upcoming appointments <br />
+Doctor support ( chat and call) <br />
+Maps to show nearby hospitals to the user. <br />
+Health trackers like sleep tracker, weight tracker. <br />
+Tools like Fetal count and contraction timer. <br />
+Neonatal care and Fitness section for Pregnant ladies. <br />
 
 ![image](https://user-images.githubusercontent.com/55876926/197762652-8e495892-720b-4613-956a-417a9af4135e.png)
 
